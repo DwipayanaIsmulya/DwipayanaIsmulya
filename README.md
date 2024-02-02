@@ -10,7 +10,7 @@ Dwi is an Active Student majoring in Information Technology, Lambung Mangkurat U
 * You can contact me at [dwipayanaismulya6@gmail.com](mailto:dwipayanaismulya6@gmail.com)
 
 ### Skills
-#### 🙈 - Frontend:
+#### 🔰 - Frontend:
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -18,10 +18,10 @@ Dwi is an Active Student majoring in Information Technology, Lambung Mangkurat U
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-#### 🙊 - Database:
+#### ♻ - Database:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🐵 - Hosting Services and Web Tools:
+#### 💠 - Hosting Services and Web Tools:
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
