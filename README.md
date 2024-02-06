@@ -40,5 +40,5 @@ Dwi is an Active Student majoring in Information Technology, Lambung Mangkurat U
 
 [![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=DwipayanaIsmulya&layout=compact)](https://github.com/DwipayanaIsmulya)
 
-### Social Media 📱:
-<a href=”https://www.linkedin.com/in/dwipayana-ismulya-06a071246/"><img align=”left” src=”https://raw.githubusercontent.com/DwipayanaIsmulya/DwipayanaIsmulya/main/images/linkedin .svg" alt=”Dwipayana Ismulya | LinkedIn” lebar=”21px”/></a>
+### Connect With Me 🤝:
+<a href=”https://www.linkedin.com/in/dwipayana-ismulya-06a071246/"><img align=”left” src=”https://raw.githubusercontent.com/DwipayanaIsmulya/DwipayanaIsmulya/main/images/linkedin.svg" alt=”Dwipayana Ismulya | LinkedIn” lebar=”21px”/></a>
