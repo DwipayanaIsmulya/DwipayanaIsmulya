@@ -34,3 +34,9 @@ Dwi is an Active Student majoring in Information Technology, Lambung Mangkurat U
 ![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+### Github Stats 📊:
+
+[![Statistik github Anurag](https://github-readme-stats.vercel.app/api?username=DwipayanaIsmulya)](https://github.com/DwipayanaIsmulya)
+
+[![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=DwipayanaIsmulya&layout=compact)](https://github.com/DwipayanaIsmulya)
