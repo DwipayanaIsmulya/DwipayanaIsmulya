@@ -42,3 +42,4 @@ Dwi is an Active Student majoring in Information Technology, Lambung Mangkurat U
 
 ### Connect With Me 🤝:
 <a href=”https://www.linkedin.com/in/dwipayana-ismulya-06a071246/"><img align=”left” src=”https://raw.githubusercontent.com/DwipayanaIsmulya/DwipayanaIsmulya/main/images/linkedin.svg" alt=”Dwipayana Ismulya | LinkedIn” lebar=”21px”/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
