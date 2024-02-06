@@ -1,3 +1,5 @@
+![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner](https://github.com/DwipayanaIsmulya/DwipayanaIsmulya/assets/69786097/6eb03fb9-f50b-40c9-8f3d-d20dabd9dd8f)
+
 ### Hi there 👋 My name is Dwipayana Ismulya
 -------------------
 
@@ -9,6 +11,11 @@ Dwi is an Active Student majoring in Information Technology, Lambung Mangkurat U
 * I'm based in Banjarmasin, Indonesia
 * You can contact me at [dwipayanaismulya6@gmail.com](mailto:dwipayanaismulya6@gmail.com)
 
+### Connect With Me 🤝:
+<a href="https://www.linkedin.com/in/dwipayana-ismulya-06a071246/"><img align="left" src="https://raw.githubusercontent.com/DwipayanaIsmulya/DwipayanaIsmulya/main/images/linkedin.svg" alt="Dwipayana Ismulya | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/_dwiimulya02"><img align="left" src="https://raw.githubusercontent.com/DwipayanaIsmulya/DwipayanaIsmulya/main/images/instagram.svg" alt="Dwipayana Ismulya | Instagram" width="21px"/></a>
+<a href="https://medium.com/@dwipayanaismulya6"><img align="left" src="https://raw.githubusercontent.com/DwipayanaIsmulya/DwipayanaIsmulya/main/images/medium.svg" alt="Dwipayana Ismulya | Medium" width="21px"/></a>
+<br/>
 ### Skills
 #### 🔰 - Frontend:
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
@@ -39,8 +46,3 @@ Dwi is an Active Student majoring in Information Technology, Lambung Mangkurat U
 [![Statistik github Anurag](https://github-readme-stats.vercel.app/api?username=DwipayanaIsmulya)](https://github.com/DwipayanaIsmulya)
 
 [![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=DwipayanaIsmulya&layout=compact)](https://github.com/DwipayanaIsmulya)
-
-### Connect With Me 🤝:
-<a href="https://www.linkedin.com/in/dwipayana-ismulya-06a071246/"><img align="left" src="https://raw.githubusercontent.com/DwipayanaIsmulya/DwipayanaIsmulya/main/images/linkedin.svg" alt="Dwipayana Ismulya | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/_dwiimulya02"><img align="left" src="https://raw.githubusercontent.com/DwipayanaIsmulya/DwipayanaIsmulya/main/images/instagram.svg" alt="Dwipayana Ismulya | Instagram" width="21px"/></a>
-<a href="https://medium.com/@dwipayanaismulya6"><img align="left" src="https://raw.githubusercontent.com/DwipayanaIsmulya/DwipayanaIsmulya/main/images/medium.svg" alt="Dwipayana Ismulya | Medium" width="21px"/></a>
