@@ -31,7 +31,6 @@ Dwi is an Active Student majoring in Information Technology, Lambung Mangkurat U
 ### IDEs and Tools 🛠:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
@@ -40,3 +39,6 @@ Dwi is an Active Student majoring in Information Technology, Lambung Mangkurat U
 [![Statistik github Anurag](https://github-readme-stats.vercel.app/api?username=DwipayanaIsmulya)](https://github.com/DwipayanaIsmulya)
 
 [![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=DwipayanaIsmulya&layout=compact)](https://github.com/DwipayanaIsmulya)
+
+### Social Media 📱:
+<a href=”https://www.linkedin.com/in/dwipayana-ismulya-06a071246/"><img align=”left” src=”https://raw.githubusercontent.com/DwipayanaIsmulya/DwipayanaIsmulya/main/images/linkedin .svg" alt=”Dwipayana Ismulya | LinkedIn” lebar=”21px”/></a>
