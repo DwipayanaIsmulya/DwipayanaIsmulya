@@ -1,6 +1,6 @@
 ![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner](https://github.com/DwipayanaIsmulya/DwipayanaIsmulya/assets/69786097/6eb03fb9-f50b-40c9-8f3d-d20dabd9dd8f)
 
-### Hi there 👋 My name is Dwipayana Ismulya
+### Hi there,  My name is Dwipayana Ismulya 👋
 -------------------
 
 React JS Enthusiast
