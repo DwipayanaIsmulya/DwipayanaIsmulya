@@ -6,7 +6,7 @@
 React JS Enthusiast 📝
 -------------------
 
-Dwi is an Active Student majoring in Information Technology, Lambung Mangkurat University. Comitted to develop project. Let's connect and create a network of learners and web developer experts. Let's inspire success!
+Dwi is an Active Student majoring in Information Technology, Lambung Mangkurat University. Comitted to develop project. Let's connect and create a network of learners and web developer experts. Let's inspire success! 🎇
 
 * I'm based in Banjarmasin, Indonesia
 * You can contact me at [dwipayanaismulya6@gmail.com](mailto:dwipayanaismulya6@gmail.com)
