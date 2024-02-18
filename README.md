@@ -16,7 +16,7 @@ Dwi is an Active Student majoring in Information Technology, Lambung Mangkurat U
 <a href="https://instagram.com/_dwiimulya02"><img align="left" src="https://raw.githubusercontent.com/DwipayanaIsmulya/DwipayanaIsmulya/main/images/instagram.svg" alt="Dwipayana Ismulya | Instagram" width="21px"/></a>
 <a href="https://medium.com/@dwipayanaismulya6"><img align="left" src="https://raw.githubusercontent.com/DwipayanaIsmulya/DwipayanaIsmulya/main/images/medium.svg" alt="Dwipayana Ismulya | Medium" width="21px"/></a>
 <br/>
-### Skills :
+### Skills 🛠:
 
 #### 🔰 - Frontend:
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
